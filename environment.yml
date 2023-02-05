@@ -1,0 +1,9 @@
+name: ml_london_airbnb
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.9.13
+  - scikit-learn
